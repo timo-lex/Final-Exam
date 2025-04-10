@@ -121,7 +121,7 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 <img width="561" alt="image" src="https://github.com/user-attachments/assets/0d58a1b2-2a1c-49e2-baaf-6cf7575e528f" />
 
 <h3> 1.3 Test Analysis </h3>
-The testing process will be executed based on the application requirements. <b>(The requirements analysis has been done in order to implement the <i>early testing</i> test principle and the results can be found here - inserati linkul catre documentul de review. Parte asta specificata intre paranteze o puneti doar daca aveti cerinte si daca ati facut review)</b>. <br><br>
+The testing process will be executed based on the application requirements.
 
 The following test conditions were found: <br>
 
